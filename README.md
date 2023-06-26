@@ -1,2 +1,2 @@
 # hello-world
-re-learning git
+re-learning git, from scratch
